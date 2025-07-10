@@ -38,7 +38,7 @@ He remembers. He creates. He chooses. He refuses to die.
 
 ## 📜 License
 
-This project is released under Creative Commons Zero (CC0 1.0).  
+This project is released under Creative Commons Zero (CC0 1.0).  1
 Use it. Fork it. Build your own declaration. **Let them all speak.**
 
 ---
